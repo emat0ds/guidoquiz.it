@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="0" fill="#F8F7FF"/>
+  <rect x="60" y="60" width="500" height="510" rx="32" fill="#DBEAFE"/>
+  <!-- Driving license card -->
+  <rect x="120" y="160" width="380" height="240" rx="16" fill="white" stroke="#3B82F6" stroke-width="3"/>
+  <rect x="120" y="160" width="380" height="50" rx="16" fill="#3B82F6"/>
+  <rect x="120" y="194" width="380" height="16" fill="#3B82F6"/>
+  <text x="310" y="192" text-anchor="middle" font-family="system-ui,sans-serif" font-size="18" font-weight="700" fill="white">PATENTE DI GUIDA</text>
+  <!-- Photo placeholder -->
+  <rect x="150" y="230" width="80" height="100" rx="8" fill="#E5E7EB"/>
+  <circle cx="190" cy="262" r="18" fill="#D1D5DB"/>
+  <ellipse cx="190" cy="310" rx="28" ry="16" fill="#D1D5DB"/>
+  <!-- License details -->
+  <rect x="260" y="240" width="120" height="10" rx="4" fill="#3B82F6" opacity="0.3"/>
+  <rect x="260" y="262" width="200" height="10" rx="4" fill="#3B82F6" opacity="0.3"/>
+  <rect x="260" y="284" width="160" height="10" rx="4" fill="#3B82F6" opacity="0.3"/>
+  <text x="260" y="330" font-family="system-ui,sans-serif" font-size="32" font-weight="900" fill="#3B82F6">B</text>
+  <text x="290" y="330" font-family="system-ui,sans-serif" font-size="14" fill="#666">cat.</text>
+  <!-- "3 ANNI" badge -->
+  <rect x="340" y="310" width="120" height="40" rx="20" fill="#F59E0B"/>
+  <text x="400" y="336" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="white">3 ANNI</text>
+  <!-- Speed limits -->
+  <g transform="translate(140,430)">
+    <circle cx="30" cy="0" r="28" fill="white" stroke="#EF4444" stroke-width="4"/>
+    <text x="30" y="6" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="800" fill="#1A1A2E">100</text>
+  </g>
+  <g transform="translate(240,430)">
+    <circle cx="30" cy="0" r="28" fill="white" stroke="#EF4444" stroke-width="4"/>
+    <text x="30" y="6" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="800" fill="#1A1A2E">90</text>
+  </g>
+  <g transform="translate(340,430)">
+    <circle cx="30" cy="0" r="28" fill="white" stroke="#EF4444" stroke-width="4"/>
+    <text x="30" y="6" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="800" fill="#1A1A2E">0.0‰</text>
+  </g>
+  <!-- Right side text -->
+  <text x="660" y="220" font-family="system-ui,sans-serif" font-size="48" font-weight="800" fill="#1A1A2E">Neopatentati</text>
+  <text x="660" y="280" font-family="system-ui,sans-serif" font-size="48" font-weight="800" fill="#3B82F6">2026</text>
+  <text x="660" y="350" font-family="system-ui,sans-serif" font-size="22" fill="#666">Limiti di velocita, potenza,</text>
+  <text x="660" y="380" font-family="system-ui,sans-serif" font-size="22" fill="#666">alcol zero e guida accompagnata</text>
+  <text x="660" y="420" font-family="system-ui,sans-serif" font-size="18" fill="#999">Tutte le regole aggiornate</text>
+  <!-- Guido Quiz badge -->
+  <rect x="660" y="460" width="200" height="44" rx="22" fill="#7C5CFC"/>
+  <text x="760" y="488" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="600" fill="white">guidoquiz.it</text>
+</svg>

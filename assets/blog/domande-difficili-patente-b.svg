@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="0" fill="#F8F7FF"/>
+  <!-- Warning/question marks cluster -->
+  <rect x="60" y="60" width="500" height="510" rx="32" fill="#FEF3C7"/>
+  <!-- Big question mark -->
+  <text x="310" y="380" text-anchor="middle" font-family="system-ui,sans-serif" font-size="240" font-weight="900" fill="#F59E0B" opacity="0.3">?</text>
+  <!-- Traffic signs -->
+  <!-- Triangle warning -->
+  <polygon points="200,160 240,100 280,160" fill="white" stroke="#EF4444" stroke-width="4"/>
+  <text x="240" y="152" text-anchor="middle" font-family="system-ui,sans-serif" font-size="24" font-weight="700" fill="#EF4444">!</text>
+  <!-- Circle prohibit -->
+  <circle cx="380" cy="130" r="36" fill="white" stroke="#EF4444" stroke-width="4"/>
+  <line x1="354" y1="130" x2="406" y2="130" stroke="#EF4444" stroke-width="4"/>
+  <!-- Yield sign -->
+  <polygon points="160,280 200,340 120,340" fill="white" stroke="#EF4444" stroke-width="4"/>
+  <!-- Diamond priority -->
+  <polygon points="420,260 450,290 420,320 390,290" fill="#FBBF24" stroke="white" stroke-width="3"/>
+  <!-- X marks for wrong answers -->
+  <g opacity="0.6">
+    <circle cx="180" cy="440" r="20" fill="#EF4444" opacity="0.15"/>
+    <path d="M172 432l16 16m0-16l-16 16" stroke="#EF4444" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="280" cy="480" r="20" fill="#EF4444" opacity="0.15"/>
+    <path d="M272 472l16 16m0-16l-16 16" stroke="#EF4444" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="400" cy="450" r="20" fill="#EF4444" opacity="0.15"/>
+    <path d="M392 442l16 16m0-16l-16 16" stroke="#EF4444" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <!-- Right side text -->
+  <text x="660" y="220" font-family="system-ui,sans-serif" font-size="44" font-weight="800" fill="#1A1A2E">Le 10 domande</text>
+  <text x="660" y="280" font-family="system-ui,sans-serif" font-size="44" font-weight="800" fill="#1A1A2E">su cui tutti</text>
+  <text x="660" y="340" font-family="system-ui,sans-serif" font-size="44" font-weight="800" fill="#EF4444">sbagliano</text>
+  <text x="660" y="400" font-family="system-ui,sans-serif" font-size="22" fill="#666">Precedenze, segnali e trappole</text>
+  <text x="660" y="430" font-family="system-ui,sans-serif" font-size="22" fill="#666">del database MIT</text>
+  <!-- Guido Quiz badge -->
+  <rect x="660" y="470" width="200" height="44" rx="22" fill="#7C5CFC"/>
+  <text x="760" y="498" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="600" fill="white">guidoquiz.it</text>
+</svg>

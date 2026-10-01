@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="0" fill="#F8F7FF"/>
+  <rect x="60" y="60" width="500" height="510" rx="32" fill="#7C5CFC" opacity="0.08"/>
+  <!-- Tablet / exam -->
+  <rect x="140" y="140" width="340" height="360" rx="24" fill="white" stroke="#7C5CFC" stroke-width="3"/>
+  <rect x="170" y="200" width="280" height="36" rx="8" fill="#7C5CFC" opacity="0.12"/>
+  <rect x="170" y="252" width="280" height="36" rx="8" fill="#7C5CFC" opacity="0.12"/>
+  <rect x="170" y="304" width="280" height="36" rx="8" fill="#7C5CFC" opacity="0.12"/>
+  <rect x="170" y="356" width="280" height="36" rx="8" fill="#7C5CFC" opacity="0.12"/>
+  <!-- Checkmarks -->
+  <circle cx="420" cy="218" r="12" fill="#22C55E"/>
+  <path d="M414 218l4 4 8-8" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="420" cy="270" r="12" fill="#22C55E"/>
+  <path d="M414 270l4 4 8-8" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="420" cy="322" r="12" fill="#22C55E"/>
+  <path d="M414 322l4 4 8-8" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="420" cy="374" r="12" fill="#EF4444"/>
+  <path d="M416 370l8 8m0-8l-8 8" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Score -->
+  <text x="310" y="450" text-anchor="middle" font-family="system-ui,sans-serif" font-size="28" font-weight="700" fill="#7C5CFC">37/40</text>
+  <text x="310" y="476" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" fill="#666">IDONEO</text>
+  <!-- Right side text -->
+  <text x="660" y="240" font-family="system-ui,sans-serif" font-size="48" font-weight="800" fill="#1A1A2E">Come passare</text>
+  <text x="660" y="300" font-family="system-ui,sans-serif" font-size="48" font-weight="800" fill="#1A1A2E">l'esame patente B</text>
+  <text x="660" y="350" font-family="system-ui,sans-serif" font-size="48" font-weight="800" fill="#7C5CFC">al primo colpo</text>
+  <text x="660" y="410" font-family="system-ui,sans-serif" font-size="22" fill="#666">Metodo, tempi e errori da evitare</text>
+  <!-- Guido Quiz badge -->
+  <rect x="660" y="450" width="200" height="44" rx="22" fill="#7C5CFC"/>
+  <text x="760" y="478" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" font-weight="600" fill="white">guidoquiz.it</text>
+</svg>
